@@ -1,1 +1,9 @@
-# حط مكاتبك
+rich
+requests
+telebot
+user_agent
+time
+hashlib
+uuid
+random
+concurrent.futures
